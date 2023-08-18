@@ -1,0 +1,28 @@
+
+header {
+    background-color:#ebeaea ;
+    text-align: center;
+}
+
+.firstTitle{
+    
+    background-color:#b1afaf;
+    color:rgb(12, 17, 90);
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.secondTitle{
+    
+    background-color:#949393;
+    color:rgb(12, 17, 90);
+    line-height: 30px;
+}
+
+footer {
+    background-color: rgb(12, 17, 90);
+    color: aliceblue;
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+  }
