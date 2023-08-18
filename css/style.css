@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 
 header {
     background-color:#ebeaea ;
@@ -19,10 +22,23 @@ header {
     line-height: 30px;
 }
 
+dl{
+    display: inline;
+}
+
 footer {
     background-color: rgb(12, 17, 90);
     color: aliceblue;
     height: 50px;
     line-height: 50px;
-    text-align: right;
+    text-align: center;
+  }
+
+  a img {
+    margin: 10px 2px 5px 2px;  
+  }
+
+.footerText {
+    position: relative;
+    top: -15px;
   }
